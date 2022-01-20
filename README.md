@@ -1,2 +1,3 @@
 # Cash-Register
-Made a graphic interface using event programming and Qt that simulates a cash register (in french)
+(eng) In order to use the graphic interface, you must have the software Qt.
+(fr) Pour utiliser l'interface graphique, vous devez avoir le logiciel Qt.
