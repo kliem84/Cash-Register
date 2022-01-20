@@ -1,2 +1,2 @@
 # Cash-Register
-Made a graphic interface using event programming that simulates a cash register
+Made a graphic interface using event programming and Qt that simulates a cash register (in french)
